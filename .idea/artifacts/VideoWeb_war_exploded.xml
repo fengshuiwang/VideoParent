@@ -37,10 +37,10 @@
           </element>
           <element id="library" level="project" name="Maven: javax.mail:mail:1.4" />
           <element id="library" level="project" name="Maven: javax.activation:activation:1.1" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:5.1.8.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jcl:5.1.8.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-web:5.0.2.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-beans:5.0.2.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework:spring-core:5.0.2.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework:spring-jcl:5.0.2.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:5.0.2.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-aop:5.0.2.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-expression:5.0.2.RELEASE" />

@@ -6,10 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="VideoPojo" />
-        <module name="VideoUtils" />
         <module name="VideoDao" />
+        <module name="VideoPojo" />
         <module name="VideoService" />
+        <module name="VideoUtils" />
         <module name="VideoWeb" />
       </profile>
     </annotationProcessing>
